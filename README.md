@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @jult3
-- 👀 I’m interested in making java plugins
-- 🌱 I’m currently learning java
-- 📫 How to reach me disord- zayo_mc
+
